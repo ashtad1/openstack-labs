@@ -9,7 +9,7 @@ We hope that this glossary of definitions is helpful as you study OpenStack, as 
 
 [OpenStack Manuals](https://github.com/openstack/openstack-manuals)
 
-**Stack** We need to add the Stack to the vocabulary
+**Stack** We need to add the term stack to the vocabulary
 
 - **Aardvark** - The latest addition to the OpenStack service catalog, this service provides formally verified computations on unstructured data in linear time (as a Service) through the advanced use of string-theory based, quantum wormhole colliders. Specialized hard ware is required.
 - **Absolute Limit** [6] Ceiling (limits) for guest VMs. Controlled by defining total limits on RAM, number of vCPUs, and disk size.
